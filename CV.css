@@ -22,14 +22,14 @@ a{
 header{
     width: 100%;
     padding: 20px 0px;
-    background: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7a%2F9e%2Feb%2F7a9eeb4fa972a27c412e6a114386115b.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fshathaalismail1%2Fcode-wallpaper%2F&tbnid=jVjRe0J2aTp2bM&vet=12ahUKEwiQ8P-hjJ_vAhUQKRQKHboLADEQMygEegUIARC2AQ..i&docid=c_UBllGy02fxtM&w=1920&h=1080&q=wallpaper%20code&ved=2ahUKEwiQ8P-hjJ_vAhUQKRQKHboLADEQMygEegUIARC2AQ");
+    background-color : #red;
     box-shadow: 0px 0px 15px #000000;
 }
 
 footer {
     width: 100%;
     padding: 20px 0px;
-    background: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7a%2F9e%2Feb%2F7a9eeb4fa972a27c412e6a114386115b.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fshathaalismail1%2Fcode-wallpaper%2F&tbnid=jVjRe0J2aTp2bM&vet=12ahUKEwiQ8P-hjJ_vAhUQKRQKHboLADEQMygEegUIARC2AQ..i&docid=c_UBllGy02fxtM&w=1920&h=1080&q=wallpaper%20code&ved=2ahUKEwiQ8P-hjJ_vAhUQKRQKHboLADEQMygEegUIARC2AQ");
+    background-color: #red;
     box-shadow: 0px 0px 15px #000000;
 }
 
