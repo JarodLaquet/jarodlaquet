@@ -22,14 +22,14 @@ a{
 header{
     width: 100%;
     padding: 20px 0px;
-    background: url("bannière.jpeg");
+    background: "banniÃ¨re.jpeg";
     box-shadow: 0px 0px 15px #000000;
 }
 
 footer {
     width: 100%;
     padding: 20px 0px;
-    background: url("bannière.jpeg");
+    background: "banniÃ¨re.jpeg";
     box-shadow: 0px 0px 15px #000000;
 }
 
@@ -162,7 +162,7 @@ section > div{
     margin-bottom: 10px;
 }
 
-.activités {
+.activitÃ©s {
     display: flex;
     flex-flow: row wrap;
     border-bottom: 1px solid #bbb;
